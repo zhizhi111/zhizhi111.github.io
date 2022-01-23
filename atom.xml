@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小马哥的博客</title>
+  <title>小马哥的博客 | BlogSelf</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://zhizhi111.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://zhizhi111.github.io/"/>
   <updated>2022-01-03T07:41:12.749Z</updated>
-  <id>http://example.com/</id>
+  <id>http://zhizhi111.github.io/</id>
   
   <author>
-    <name>马志远</name>
+    <name>小马哥</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/01/03/hello-world/"/>
-    <id>http://example.com/2022/01/03/hello-world/</id>
+    <link href="http://zhizhi111.github.io/2022/01/03/hello-world/"/>
+    <id>http://zhizhi111.github.io/2022/01/03/hello-world/</id>
     <published>2022-01-03T07:41:12.749Z</published>
     <updated>2022-01-03T07:41:12.749Z</updated>
     
