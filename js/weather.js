@@ -20,6 +20,6 @@ WIDGET = {
         "horizontal": "center",
         "left": "20",
         "top": "410",
-        "key": "7f9d38836cec4c8384ca2f82ed6f909f"
+        "key": "2336b8148d2d4b6a8dae55efbb56f96d"
     }
 }
