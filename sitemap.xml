@@ -47,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://zhizhi111.github.io/2021/12/22/Ngork-teach/</loc>
-    
-    <lastmod>2022-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://zhizhi111.github.io/2021/12/28/SSM%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E5%8F%8A%E6%B5%81%E7%A8%8B/</loc>
+    <loc>http://zhizhi111.github.io/2021/12/22/MySQL%E5%B8%B8%E8%A7%81%E7%BA%A6%E6%9D%9F/</loc>
     
     <lastmod>2022-01-23</lastmod>
     
@@ -74,7 +65,16 @@
   </url>
   
   <url>
-    <loc>http://zhizhi111.github.io/2021/12/22/MySQL%E5%B8%B8%E8%A7%81%E7%BA%A6%E6%9D%9F/</loc>
+    <loc>http://zhizhi111.github.io/2021/12/22/Ngork-teach/</loc>
+    
+    <lastmod>2022-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhizhi111.github.io/2021/12/28/SSM%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E5%8F%8A%E6%B5%81%E7%A8%8B/</loc>
     
     <lastmod>2022-01-23</lastmod>
     
@@ -223,7 +223,7 @@
   </url>
   
   <url>
-    <loc>http://zhizhi111.github.io/tags/Ngork/</loc>
+    <loc>http://zhizhi111.github.io/tags/MySQL/</loc>
     <lastmod>2022-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -237,7 +237,7 @@
   </url>
   
   <url>
-    <loc>http://zhizhi111.github.io/tags/MySQL/</loc>
+    <loc>http://zhizhi111.github.io/tags/Ngork/</loc>
     <lastmod>2022-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
