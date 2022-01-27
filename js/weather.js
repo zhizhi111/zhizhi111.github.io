@@ -1,25 +1,22 @@
 WIDGET = {
-
-    "CONFIG": {
-
-        "modules": "01234",
-        "background": "5",
-        "tmpColor": "4A86E8",
-        "tmpSize": "16",
-        "cityColor": "FF9900",
-        "citySize": "16",
-        "aqiColor": "4A86E8",
-        "aqiSize": "16",
-        "weatherIconSize": "24",
-        "alertIconSize": "18",
-        "padding": "0px 0px 0px 0px",
-        "shadow": "0",
-        "language": "auto",
-        "fixed": "true",
-        "vertical": "center",
-        "horizontal": "center",
-        "left": "20",
-        "top": "410",
-        "key": "2336b8148d2d4b6a8dae55efbb56f96d"
-    }
+  "CONFIG": {
+    "modules": "01234",
+    "background": "1",
+    "tmpColor": "FFFFFF",
+    "tmpSize": "16",
+    "cityColor": "FFFFFF",
+    "citySize": "16",
+    "aqiColor": "FFFFFF",
+    "aqiSize": "16",
+    "weatherIconSize": "24",
+    "alertIconSize": "18",
+    "padding": "10px 10px 10px 10px",
+    "shadow": "0",
+    "language": "auto",
+    "borderRadius": "10",
+    "fixed": "false",
+    "vertical": "top",
+    "horizontal": "left",
+    "key": "a844472dd3ef404b9c004c5e9ff45f1e"
+  }
 }
